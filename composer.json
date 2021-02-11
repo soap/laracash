@@ -12,7 +12,8 @@
     "homepage": "https://github.com/soap/laracash",
     "keywords": ["Laravel", "Laracash"],
     "require": {
-        "illuminate/support": "~7|~8"
+        "illuminate/support": "~7|~8",
+        "neptunesoftware/laravel-invoice": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "~9.0",
