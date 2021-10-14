@@ -2,7 +2,7 @@
 
 namespace Soap\Laracash;
 
-use NeptuneSoftware\Invoice\Traits\HasInvoice;
+use Soap\Invoices\Traits\HasInvoice;
 
 trait Billable 
 {
