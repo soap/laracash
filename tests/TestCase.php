@@ -2,8 +2,9 @@
 
 namespace Soap\Laracash\Tests;
 
+use Orchestra\Testbench\TestCase as Orchestral;
 
-class TestCase extends \Orchestra\Testbench\TestCase
+class TestCase extends Orchestral
 {
     /**
      * Setup tests

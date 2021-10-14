@@ -16,3 +16,4 @@ class Laracash extends Facade
         return 'laracash';
     }
 }
+
