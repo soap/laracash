@@ -8,10 +8,10 @@ class ExampleTest extends TestCase
 {
     /**
      * @test
-     * 
-     * @return void 
+     *
+     * @return void
      */
-    public function it_can_do_something():void
+    public function it_can_do_something(): void
     {
         $this->assertEquals(1, 1);
     }
