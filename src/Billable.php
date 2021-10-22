@@ -9,6 +9,6 @@ trait Billable
     use Invoiceable; // enables the ->invoices() Eloquent relationship
 
     public function invoiceFor()
-    {        
+    {
     }
 }
