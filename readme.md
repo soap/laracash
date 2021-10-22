@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Total Downloads][ico-downloads]][link-downloads]
-[![Build Status][ico-travis]][link-travis]
+[![Build Status](https://app.travis-ci.com/soap/laracash.svg?branch=main)](https://app.travis-ci.com/soap/laracash)
 [![StyleCI](https://github.styleci.io/repos/335581728/shield?branch=main)
 
 This is where your description should go. Take a look at [contributing.md](contributing.md) to see a to do list.
