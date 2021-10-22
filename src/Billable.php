@@ -2,11 +2,11 @@
 
 namespace Soap\Laracash;
 
-use Soap\Invoices\Traits\HasInvoice;
+use Soap\Invoices\Traits\Invoiceable;
 
 trait Billable 
 {
-    use HasInvoice; // enables the ->invoices() Eloquent relationship
+    use Invoiceable; // enables the ->invoices() Eloquent relationship
 
     public function invoiceFor()
     {
