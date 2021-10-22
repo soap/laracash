@@ -9,6 +9,7 @@ class BasicTest extends TestCase
 
     /**
      * @test
+     * 
      * @return void
      */
     public function it_can_do_basic_thing(): void
